@@ -1,0 +1,5 @@
+In Python you can do anything
+In Python you can do maths
+In Python you can analyze numbers
+In Python you can read text
+In Python you can find things in you text
